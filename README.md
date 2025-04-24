@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abhigna-arsam/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0443-string-compression](https://github.com/Abhigna-arsam/Leetcode/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/0812-rotate-string) |
 ## Trie
 |  |
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/Abhigna-arsam/Leetcode/tree/master/0797-rabbits-in-forest) |
+## Two Pointers
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/Abhigna-arsam/Leetcode/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
