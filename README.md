@@ -5,11 +5,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhigna-arsam/Leetcode/tree/master/0001-two-sum) |
+| [0797-rabbits-in-forest](https://github.com/Abhigna-arsam/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhigna-arsam/Leetcode/tree/master/0001-two-sum) |
+| [0797-rabbits-in-forest](https://github.com/Abhigna-arsam/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/Abhigna-arsam/Leetcode/tree/master/1500-count-largest-group) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## String
@@ -28,9 +30,14 @@
 ## Math
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/Abhigna-arsam/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/Abhigna-arsam/Leetcode/tree/master/1500-count-largest-group) |
 ## Sliding Window
 |  |
 | ------- |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0797-rabbits-in-forest](https://github.com/Abhigna-arsam/Leetcode/tree/master/0797-rabbits-in-forest) |
 <!---LeetCode Topics End-->
