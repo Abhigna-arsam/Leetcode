@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Abhigna-arsam/Leetcode/tree/master/0001-two-sum) |
 | [0797-rabbits-in-forest](https://github.com/Abhigna-arsam/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Abhigna-arsam/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Abhigna-arsam/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Abhigna-arsam/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abhigna-arsam/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Abhigna-arsam/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Abhigna-arsam/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Greedy
@@ -59,4 +61,12 @@
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Abhigna-arsam/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Binary Search
+|  |
+| ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Abhigna-arsam/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Abhigna-arsam/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
