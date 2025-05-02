@@ -28,6 +28,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abhigna-arsam/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0443-string-compression](https://github.com/Abhigna-arsam/Leetcode/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/Abhigna-arsam/Leetcode/tree/master/0868-push-dominoes) |
 ## Trie
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/Abhigna-arsam/Leetcode/tree/master/0443-string-compression) |
+| [0868-push-dominoes](https://github.com/Abhigna-arsam/Leetcode/tree/master/0868-push-dominoes) |
 ## Queue
 |  |
 | ------- |
@@ -82,4 +84,8 @@
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Abhigna-arsam/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0868-push-dominoes](https://github.com/Abhigna-arsam/Leetcode/tree/master/0868-push-dominoes) |
 <!---LeetCode Topics End-->
