@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhigna-arsam/Leetcode/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0797-rabbits-in-forest](https://github.com/Abhigna-arsam/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Abhigna-arsam/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -20,6 +21,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Abhigna-arsam/Leetcode/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abhigna-arsam/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0797-rabbits-in-forest](https://github.com/Abhigna-arsam/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/Abhigna-arsam/Leetcode/tree/master/1500-count-largest-group) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -62,6 +64,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Abhigna-arsam/Leetcode/tree/master/0443-string-compression) |
 | [0868-push-dominoes](https://github.com/Abhigna-arsam/Leetcode/tree/master/0868-push-dominoes) |
 ## Queue
@@ -77,6 +80,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Abhigna-arsam/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Abhigna-arsam/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -87,6 +91,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Abhigna-arsam/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Dynamic Programming
 |  |
