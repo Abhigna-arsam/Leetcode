@@ -5,9 +5,9 @@ class Solution {
         for (int x = 1; x <= 6; x++) {
             int rTop = 0;
             int rBottom = 0;
-            int i = 0;
+            int i;
 
-            for (; i < tops.length; i++) {
+            for (i=0; i < tops.length; i++) {
                 if (tops[i] != x && bottoms[i] != x) {
                     break;
                 }
