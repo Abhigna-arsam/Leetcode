@@ -110,4 +110,20 @@
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Abhigna-arsam/Leetcode/tree/master/2048-build-array-from-permutation) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Abhigna-arsam/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Abhigna-arsam/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Abhigna-arsam/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Abhigna-arsam/Leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
