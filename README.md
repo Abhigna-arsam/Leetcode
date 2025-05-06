@@ -34,6 +34,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Abhigna-arsam/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Abhigna-arsam/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abhigna-arsam/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0392-is-subsequence](https://github.com/Abhigna-arsam/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Abhigna-arsam/Leetcode/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/Abhigna-arsam/Leetcode/tree/master/0868-push-dominoes) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Abhigna-arsam/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Abhigna-arsam/Leetcode/tree/master/0443-string-compression) |
 | [0868-push-dominoes](https://github.com/Abhigna-arsam/Leetcode/tree/master/0868-push-dominoes) |
 ## Queue
@@ -100,6 +102,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Abhigna-arsam/Leetcode/tree/master/0392-is-subsequence) |
 | [0806-domino-and-tromino-tiling](https://github.com/Abhigna-arsam/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Abhigna-arsam/Leetcode/tree/master/0868-push-dominoes) |
 ## Counting
