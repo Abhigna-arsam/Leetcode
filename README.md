@@ -36,6 +36,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhigna-arsam/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Abhigna-arsam/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0812-rotate-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/Abhigna-arsam/Leetcode/tree/master/0868-push-dominoes) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Abhigna-arsam/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Abhigna-arsam/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Trie
 |  |
@@ -63,6 +65,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Abhigna-arsam/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Abhigna-arsam/Leetcode/tree/master/1500-count-largest-group) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Abhigna-arsam/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Abhigna-arsam/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Sliding Window
 |  |
@@ -125,12 +128,14 @@
 | [0806-domino-and-tromino-tiling](https://github.com/Abhigna-arsam/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Abhigna-arsam/Leetcode/tree/master/0868-push-dominoes) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Abhigna-arsam/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Abhigna-arsam/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Counting
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Abhigna-arsam/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Abhigna-arsam/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Simulation
 |  |
 | ------- |
