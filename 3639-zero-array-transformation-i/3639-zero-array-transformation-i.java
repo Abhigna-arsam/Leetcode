@@ -1,5 +1,8 @@
 class Solution {
     public boolean isZeroArray(int[] nums, int[][] queries) {
+        // Step 1: Make difference array using queries   
+        // Step 2: Compute cumulative effect on each index 
+        // Step 3: Check if each value can reach 0
         int n = nums.length;
         int[] diff = new int[n];
         for (int[] q : queries) {
@@ -16,9 +19,6 @@ class Solution {
         for (int i = 0; i < n; i++) {
             cumSum += diff[i];
             res[i] = cumSum;
-        }
-
-        for (int i = 0; i < n; i++) {
             if (res[i] < nums[i]) {
                 return false;
             }
