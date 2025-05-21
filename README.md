@@ -48,6 +48,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Abhigna-arsam/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Abhigna-arsam/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abhigna-arsam/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0392-is-subsequence](https://github.com/Abhigna-arsam/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Abhigna-arsam/Leetcode/tree/master/0443-string-compression) |
@@ -65,6 +66,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/0812-rotate-string) |
 ## Math
 |  |
@@ -97,6 +99,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Abhigna-arsam/Leetcode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Abhigna-arsam/Leetcode/tree/master/0392-is-subsequence) |
