@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhigna-arsam/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Abhigna-arsam/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Abhigna-arsam/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Abhigna-arsam/Leetcode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Abhigna-arsam/Leetcode/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abhigna-arsam/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/Abhigna-arsam/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Abhigna-arsam/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0797-rabbits-in-forest](https://github.com/Abhigna-arsam/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -50,6 +52,7 @@
 | [0014-longest-common-prefix](https://github.com/Abhigna-arsam/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abhigna-arsam/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/Abhigna-arsam/Leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Abhigna-arsam/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Abhigna-arsam/Leetcode/tree/master/0443-string-compression) |
@@ -137,6 +140,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Abhigna-arsam/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Abhigna-arsam/Leetcode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhigna-arsam/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
