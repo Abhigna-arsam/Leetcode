@@ -1,10 +1,11 @@
 class Solution {
     public int[] findArray(int[] pref) {
-        int ans[]= new int[pref.length];
-        ans[0]=pref[0];
-        for(int i = 1 ; i < pref.length ; i++){
-            ans[i]=pref[i-1]^pref[i];
+        int n=pref.length;
+        int a[]=new int[n];
+        a[0]=pref[0];
+        for(int i=1;i<n;i++){
+            a[i]=pref[i]^pref[i-1];
         }
-        return ans;
+        return a;
     }
 }
