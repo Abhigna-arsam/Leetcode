@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhigna-arsam/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Abhigna-arsam/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Abhigna-arsam/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Abhigna-arsam/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Abhigna-arsam/Leetcode/tree/master/0075-sort-colors) |
@@ -131,6 +132,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Abhigna-arsam/Leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Abhigna-arsam/Leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -169,6 +171,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Abhigna-arsam/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Abhigna-arsam/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Abhigna-arsam/Leetcode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
