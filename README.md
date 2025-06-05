@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/Abhigna-arsam/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Abhigna-arsam/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Abhigna-arsam/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Abhigna-arsam/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhigna-arsam/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -52,6 +53,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abhigna-arsam/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Abhigna-arsam/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Abhigna-arsam/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Abhigna-arsam/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhigna-arsam/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -185,6 +187,7 @@
 | [0015-3sum](https://github.com/Abhigna-arsam/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Abhigna-arsam/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Abhigna-arsam/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Abhigna-arsam/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhigna-arsam/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0917-boats-to-save-people](https://github.com/Abhigna-arsam/Leetcode/tree/master/0917-boats-to-save-people) |
@@ -206,6 +209,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abhigna-arsam/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Abhigna-arsam/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1635-number-of-good-pairs](https://github.com/Abhigna-arsam/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -273,4 +277,8 @@
 |  |
 | ------- |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Abhigna-arsam/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Abhigna-arsam/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
