@@ -57,6 +57,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhigna-arsam/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0782-jewels-and-stones](https://github.com/Abhigna-arsam/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Abhigna-arsam/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Abhigna-arsam/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -83,6 +84,7 @@
 | [0412-fizz-buzz](https://github.com/Abhigna-arsam/Leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Abhigna-arsam/Leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Abhigna-arsam/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0782-jewels-and-stones](https://github.com/Abhigna-arsam/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/Abhigna-arsam/Leetcode/tree/master/0868-push-dominoes) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Abhigna-arsam/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
