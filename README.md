@@ -58,6 +58,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhigna-arsam/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Abhigna-arsam/Leetcode/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/Abhigna-arsam/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Abhigna-arsam/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Abhigna-arsam/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -81,6 +82,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Abhigna-arsam/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Abhigna-arsam/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Abhigna-arsam/Leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Abhigna-arsam/Leetcode/tree/master/0443-string-compression) |
@@ -194,6 +196,7 @@
 | [0169-majority-element](https://github.com/Abhigna-arsam/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhigna-arsam/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Abhigna-arsam/Leetcode/tree/master/0389-find-the-difference) |
 | [0917-boats-to-save-people](https://github.com/Abhigna-arsam/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhigna-arsam/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -280,6 +283,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Abhigna-arsam/Leetcode/tree/master/0389-find-the-difference) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Abhigna-arsam/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Divide and Conquer
 |  |
