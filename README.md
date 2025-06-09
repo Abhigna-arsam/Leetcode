@@ -25,6 +25,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Abhigna-arsam/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhigna-arsam/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Abhigna-arsam/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Abhigna-arsam/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -204,6 +205,7 @@
 | [0389-find-the-difference](https://github.com/Abhigna-arsam/Leetcode/tree/master/0389-find-the-difference) |
 | [0917-boats-to-save-people](https://github.com/Abhigna-arsam/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhigna-arsam/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Abhigna-arsam/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhigna-arsam/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -261,6 +263,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Abhigna-arsam/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Matrix
