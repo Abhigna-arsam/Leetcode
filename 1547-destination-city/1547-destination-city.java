@@ -1,16 +1,16 @@
 class Solution {
     public String destCity(List<List<String>> paths) {
-        Map<String, Integer> mp = new HashMap<>();
+         Set<String> st = new HashSet<>();
         
-        for(List<String> p : paths) {
-            String s = p.get(0); 
-            mp.put(s, mp.getOrDefault(s, 0) + 1);
+        for(List<String> path : paths) {
+            String s = path.get(0);
+            st.add(s);
         }
         
-        for(List<String> p : paths) {
-            String d = p.get(1);
+        for(List<String> path : paths) {
+            String d = path.get(1);
             
-            if(mp.getOrDefault(d, 0) == 0) {
+            if(!st.contains(d)) {
                 return d;
             }
         }
