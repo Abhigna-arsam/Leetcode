@@ -10,6 +10,8 @@ class Solution {
             else{
                 sL = Math.max(sL,nums[i]);
             }
+        }
+        for(int i = 0; i<nums.length; i++){
             if(nums[i]<fS){
                 sS = fS;
                 fS = nums[i];
