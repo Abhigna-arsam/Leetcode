@@ -7,8 +7,8 @@ class Solution {
                 sL = fL;
                 fL = nums[i];
             }
-            else{
-                sL = Math.max(sL,nums[i]);
+            else if(nums[i]>sL){
+                sL = nums[i];
             }
         }
         for(int i = 0; i<nums.length; i++){
@@ -16,8 +16,8 @@ class Solution {
                 sS = fS;
                 fS = nums[i];
             }
-            else{
-                sS = Math.min(nums[i],sS);
+            else if(nums[i]<sS){
+                sS = nums[i];
             }
 
         }
