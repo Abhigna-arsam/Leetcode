@@ -9,8 +9,8 @@ class Solution {
                 continue;
             }
             r = l+1;
-            int t = -1;
-            while(r+1<n && nums[r+1]-nums[r] == t){
+            int t = 1;
+            while(r+1<n && nums[r]-nums[r+1]==t){
                 t*=-1;
                 r++;
             }
