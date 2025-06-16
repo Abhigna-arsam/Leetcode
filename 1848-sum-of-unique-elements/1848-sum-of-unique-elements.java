@@ -5,9 +5,9 @@ class Solution {
         for (int num : nums) {
             mp.put(num, mp.getOrDefault(num, 0) + 1);
         }
-        for (Map.Entry<Integer, Integer> entry : mp.entrySet()) {
-            if (entry.getValue() == 1) {
-                sum += entry.getKey();
+        for(int i=0;i<nums.length;i++) {
+            if(mp.get(nums[i])==1) {
+                sum += nums[i];
             }
         }
         return sum;
