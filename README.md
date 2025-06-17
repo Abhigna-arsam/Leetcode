@@ -30,6 +30,7 @@
 | [1580-shuffle-the-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Abhigna-arsam/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/Abhigna-arsam/Leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1833-find-the-highest-altitude](https://github.com/Abhigna-arsam/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/Abhigna-arsam/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhigna-arsam/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -289,6 +290,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Abhigna-arsam/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/Abhigna-arsam/Leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Abhigna-arsam/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
