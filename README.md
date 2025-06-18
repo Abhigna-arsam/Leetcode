@@ -45,6 +45,7 @@
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Abhigna-arsam/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Abhigna-arsam/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Abhigna-arsam/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2756-buy-two-chocolates](https://github.com/Abhigna-arsam/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2870-longest-alternating-subarray](https://github.com/Abhigna-arsam/Leetcode/tree/master/2870-longest-alternating-subarray) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -162,6 +163,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Abhigna-arsam/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Abhigna-arsam/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Abhigna-arsam/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2756-buy-two-chocolates](https://github.com/Abhigna-arsam/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Abhigna-arsam/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Two Pointers
@@ -227,6 +229,7 @@
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Abhigna-arsam/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Abhigna-arsam/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhigna-arsam/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2756-buy-two-chocolates](https://github.com/Abhigna-arsam/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [3321-type-of-triangle](https://github.com/Abhigna-arsam/Leetcode/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
