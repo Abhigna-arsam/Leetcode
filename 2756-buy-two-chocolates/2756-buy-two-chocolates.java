@@ -1,13 +1,22 @@
 class Solution {
     public int buyChoco(int[] prices, int money) {
-        Arrays.sort(prices);
-        for(int i = 1; i<prices.length; i++){
-            int sum = prices[i]+prices[i-1]; 
-            
-            if(sum <= money){
-                return money-sum;
+        // Arrays.sort(prices);
+        int minP = Integer.MAX_VALUE;
+        int sMin = Integer.MAX_VALUE;
+        for(int p : prices){
+            if(p<minP){
+                sMin=minP;
+                minP=p;
+            }
+            else{
+                sMin=Math.min(sMin,p);
             }
         }
-        return money;
+        int sum = minP+sMin;
+        if(sum > money){
+            return money;
+        }
+        
+        return money-sum;
     }
 }
