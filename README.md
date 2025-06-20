@@ -95,6 +95,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abhigna-arsam/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Abhigna-arsam/Leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/Abhigna-arsam/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abhigna-arsam/Leetcode/tree/master/0389-find-the-difference) |
@@ -130,6 +131,7 @@
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Abhigna-arsam/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0412-fizz-buzz](https://github.com/Abhigna-arsam/Leetcode/tree/master/0412-fizz-buzz) |
 | [0797-rabbits-in-forest](https://github.com/Abhigna-arsam/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Abhigna-arsam/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
