@@ -100,6 +100,7 @@
 | [0049-group-anagrams](https://github.com/Abhigna-arsam/Leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Abhigna-arsam/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0316-remove-duplicate-letters](https://github.com/Abhigna-arsam/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abhigna-arsam/Leetcode/tree/master/0389-find-the-difference) |
@@ -167,6 +168,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Abhigna-arsam/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0605-can-place-flowers](https://github.com/Abhigna-arsam/Leetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Abhigna-arsam/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0797-rabbits-in-forest](https://github.com/Abhigna-arsam/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -336,6 +338,7 @@
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Abhigna-arsam/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Abhigna-arsam/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/Abhigna-arsam/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Bit Manipulation
@@ -347,4 +350,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhigna-arsam/Leetcode/tree/master/0169-majority-element) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Abhigna-arsam/Leetcode/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
