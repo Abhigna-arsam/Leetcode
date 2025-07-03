@@ -121,6 +121,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Abhigna-arsam/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3617-find-the-original-typed-string-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Abhigna-arsam/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Abhigna-arsam/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
