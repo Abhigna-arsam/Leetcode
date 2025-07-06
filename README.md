@@ -37,6 +37,7 @@
 | [1833-find-the-highest-altitude](https://github.com/Abhigna-arsam/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/Abhigna-arsam/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhigna-arsam/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Abhigna-arsam/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Abhigna-arsam/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/Abhigna-arsam/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -86,6 +87,7 @@
 | [1635-number-of-good-pairs](https://github.com/Abhigna-arsam/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Abhigna-arsam/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Abhigna-arsam/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Abhigna-arsam/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Abhigna-arsam/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhigna-arsam/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -361,4 +363,8 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Abhigna-arsam/Leetcode/tree/master/0316-remove-duplicate-letters) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Abhigna-arsam/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
