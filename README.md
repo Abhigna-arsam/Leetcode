@@ -139,6 +139,7 @@
 | [3637-count-number-of-balanced-permutations](https://github.com/Abhigna-arsam/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3931-process-string-with-special-operations-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3931-process-string-with-special-operations-i) |
 ## Trie
 |  |
 | ------- |
@@ -306,6 +307,7 @@
 | [2058-concatenation-of-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Abhigna-arsam/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Abhigna-arsam/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3931-process-string-with-special-operations-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3931-process-string-with-special-operations-i) |
 ## Tree
 |  |
 | ------- |
