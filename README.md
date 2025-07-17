@@ -128,6 +128,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/Abhigna-arsam/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Abhigna-arsam/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Abhigna-arsam/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Abhigna-arsam/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/Abhigna-arsam/Leetcode/tree/master/3396-valid-word) |
@@ -175,6 +176,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Abhigna-arsam/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhigna-arsam/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Abhigna-arsam/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Abhigna-arsam/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Abhigna-arsam/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Abhigna-arsam/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
