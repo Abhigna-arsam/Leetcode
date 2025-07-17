@@ -63,6 +63,7 @@
 | [3639-zero-array-transformation-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Abhigna-arsam/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3885-count-special-triplets](https://github.com/Abhigna-arsam/Leetcode/tree/master/3885-count-special-triplets) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Abhigna-arsam/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3885-count-special-triplets](https://github.com/Abhigna-arsam/Leetcode/tree/master/3885-count-special-triplets) |
 ## String
 |  |
 | ------- |
@@ -298,6 +300,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Abhigna-arsam/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3885-count-special-triplets](https://github.com/Abhigna-arsam/Leetcode/tree/master/3885-count-special-triplets) |
 ## Simulation
 |  |
 | ------- |
