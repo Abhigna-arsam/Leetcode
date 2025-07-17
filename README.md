@@ -153,6 +153,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Abhigna-arsam/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0412-fizz-buzz](https://github.com/Abhigna-arsam/Leetcode/tree/master/0412-fizz-buzz) |
 | [0797-rabbits-in-forest](https://github.com/Abhigna-arsam/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Abhigna-arsam/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Abhigna-arsam/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhigna-arsam/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1500-count-largest-group](https://github.com/Abhigna-arsam/Leetcode/tree/master/1500-count-largest-group) |
@@ -376,4 +377,8 @@
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Abhigna-arsam/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Abhigna-arsam/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
