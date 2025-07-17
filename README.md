@@ -85,6 +85,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/Abhigna-arsam/Leetcode/tree/master/1547-destination-city) |
 | [1635-number-of-good-pairs](https://github.com/Abhigna-arsam/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/Abhigna-arsam/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1848-sum-of-unique-elements](https://github.com/Abhigna-arsam/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Abhigna-arsam/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Abhigna-arsam/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -119,6 +120,7 @@
 | [0868-push-dominoes](https://github.com/Abhigna-arsam/Leetcode/tree/master/0868-push-dominoes) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhigna-arsam/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1547-destination-city](https://github.com/Abhigna-arsam/Leetcode/tree/master/1547-destination-city) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/Abhigna-arsam/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Abhigna-arsam/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Abhigna-arsam/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Abhigna-arsam/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
