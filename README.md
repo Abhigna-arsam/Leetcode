@@ -157,6 +157,7 @@
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Abhigna-arsam/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0326-power-of-three](https://github.com/Abhigna-arsam/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Abhigna-arsam/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Abhigna-arsam/Leetcode/tree/master/0412-fizz-buzz) |
 | [0797-rabbits-in-forest](https://github.com/Abhigna-arsam/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -408,5 +409,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Abhigna-arsam/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Abhigna-arsam/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
