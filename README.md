@@ -157,6 +157,7 @@
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Abhigna-arsam/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0342-power-of-four](https://github.com/Abhigna-arsam/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Abhigna-arsam/Leetcode/tree/master/0412-fizz-buzz) |
 | [0797-rabbits-in-forest](https://github.com/Abhigna-arsam/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Abhigna-arsam/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -377,6 +378,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Abhigna-arsam/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Abhigna-arsam/Leetcode/tree/master/0389-find-the-difference) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Abhigna-arsam/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Divide and Conquer
@@ -403,4 +405,8 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Abhigna-arsam/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Abhigna-arsam/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
