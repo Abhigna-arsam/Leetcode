@@ -17,6 +17,7 @@
 | [0605-can-place-flowers](https://github.com/Abhigna-arsam/Leetcode/tree/master/0605-can-place-flowers) |
 | [0797-rabbits-in-forest](https://github.com/Abhigna-arsam/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/Abhigna-arsam/Leetcode/tree/master/0917-boats-to-save-people) |
+| [0940-fruit-into-baskets](https://github.com/Abhigna-arsam/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhigna-arsam/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Abhigna-arsam/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -81,6 +82,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Abhigna-arsam/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0782-jewels-and-stones](https://github.com/Abhigna-arsam/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Abhigna-arsam/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0940-fruit-into-baskets](https://github.com/Abhigna-arsam/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhigna-arsam/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Abhigna-arsam/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -181,6 +183,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abhigna-arsam/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhigna-arsam/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Abhigna-arsam/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/Abhigna-arsam/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhigna-arsam/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhigna-arsam/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Abhigna-arsam/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
