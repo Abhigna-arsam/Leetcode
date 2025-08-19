@@ -48,6 +48,7 @@
 | [2195-time-needed-to-buy-tickets](https://github.com/Abhigna-arsam/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhigna-arsam/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Abhigna-arsam/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Abhigna-arsam/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Abhigna-arsam/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Abhigna-arsam/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -171,6 +172,7 @@
 | [1635-number-of-good-pairs](https://github.com/Abhigna-arsam/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/Abhigna-arsam/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Abhigna-arsam/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Abhigna-arsam/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Abhigna-arsam/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Abhigna-arsam/Leetcode/tree/master/3321-type-of-triangle) |
