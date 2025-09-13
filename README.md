@@ -105,6 +105,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Abhigna-arsam/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Abhigna-arsam/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/Abhigna-arsam/Leetcode/tree/master/3885-count-special-triplets) |
 ## String
 |  |
@@ -148,6 +149,7 @@
 | [3637-count-number-of-balanced-permutations](https://github.com/Abhigna-arsam/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Abhigna-arsam/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3893-generate-tag-for-video-caption](https://github.com/Abhigna-arsam/Leetcode/tree/master/3893-generate-tag-for-video-caption) |
 | [3931-process-string-with-special-operations-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3931-process-string-with-special-operations-i) |
 ## Trie
@@ -317,6 +319,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Abhigna-arsam/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Abhigna-arsam/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/Abhigna-arsam/Leetcode/tree/master/3885-count-special-triplets) |
 ## Simulation
 |  |
