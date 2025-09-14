@@ -31,8 +31,6 @@ class Solution {
         if (caseM.containsKey(lowerQuery)) {
             return caseM.get(lowerQuery);
         }
-
-        // 3. Vowel-insensitive match
         String maskedQuery = maskVowels(lowerQuery);
         if (vowelM.containsKey(maskedQuery)) {
             return vowelM.get(maskedQuery);
@@ -51,7 +49,6 @@ class Solution {
             String maskedWord = maskVowels(lowerWord);
             vowelM.putIfAbsent(maskedWord, word);
         }
-
         String[] result = new String[queries.length];
         for (int i = 0; i < queries.length; i++) {
             result[i] = checkForMatch(queries[i]);
