@@ -90,6 +90,7 @@
 | [1006-vowel-spellchecker](https://github.com/Abhigna-arsam/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhigna-arsam/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Abhigna-arsam/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Abhigna-arsam/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1500-count-largest-group](https://github.com/Abhigna-arsam/Leetcode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -133,6 +134,7 @@
 | [0868-push-dominoes](https://github.com/Abhigna-arsam/Leetcode/tree/master/0868-push-dominoes) |
 | [1006-vowel-spellchecker](https://github.com/Abhigna-arsam/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhigna-arsam/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Abhigna-arsam/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1547-destination-city](https://github.com/Abhigna-arsam/Leetcode/tree/master/1547-destination-city) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Abhigna-arsam/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Abhigna-arsam/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
