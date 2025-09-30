@@ -52,6 +52,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Abhigna-arsam/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Abhigna-arsam/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhigna-arsam/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Abhigna-arsam/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Abhigna-arsam/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -184,6 +185,7 @@
 | [1635-number-of-good-pairs](https://github.com/Abhigna-arsam/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/Abhigna-arsam/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Abhigna-arsam/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Abhigna-arsam/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Abhigna-arsam/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -339,6 +341,7 @@
 | [2058-concatenation-of-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Abhigna-arsam/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Abhigna-arsam/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/Abhigna-arsam/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3893-generate-tag-for-video-caption](https://github.com/Abhigna-arsam/Leetcode/tree/master/3893-generate-tag-for-video-caption) |
 | [3931-process-string-with-special-operations-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3931-process-string-with-special-operations-i) |
@@ -386,6 +389,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Abhigna-arsam/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Enumeration
 |  |
