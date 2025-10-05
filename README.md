@@ -183,6 +183,7 @@
 | [1448-maximum-69-number](https://github.com/Abhigna-arsam/Leetcode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Abhigna-arsam/Leetcode/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/Abhigna-arsam/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1642-water-bottles](https://github.com/Abhigna-arsam/Leetcode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/Abhigna-arsam/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Abhigna-arsam/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -335,6 +336,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Abhigna-arsam/Leetcode/tree/master/0412-fizz-buzz) |
+| [1642-water-bottles](https://github.com/Abhigna-arsam/Leetcode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/Abhigna-arsam/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Abhigna-arsam/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Abhigna-arsam/Leetcode/tree/master/2048-build-array-from-permutation) |
