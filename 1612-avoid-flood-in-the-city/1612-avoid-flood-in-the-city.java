@@ -2,7 +2,7 @@ class Solution {
     public int[] avoidFlood(int[] rains) {
          int n = rains.length;
         int[] ans = new int[n];
-        Map<Integer, Integer> full = new HashMap<>(); // lake -> last day it rained
+        Map<Integer, Integer> full = new HashMap<>();
         TreeSet<Integer> dryDays = new TreeSet<>();
         
         for (int i = 0; i < n; i++) {
