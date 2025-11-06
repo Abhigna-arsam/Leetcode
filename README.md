@@ -67,6 +67,7 @@
 | [3194-find-words-containing-character](https://github.com/Abhigna-arsam/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Abhigna-arsam/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3321-type-of-triangle](https://github.com/Abhigna-arsam/Leetcode/tree/master/3321-type-of-triangle) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Abhigna-arsam/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3639-zero-array-transformation-i) |
@@ -110,6 +111,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Abhigna-arsam/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhigna-arsam/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Abhigna-arsam/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -435,6 +437,7 @@
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Abhigna-arsam/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Segment Tree
 |  |
 | ------- |
