@@ -154,6 +154,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Abhigna-arsam/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/Abhigna-arsam/Leetcode/tree/master/3396-valid-word) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Abhigna-arsam/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3617-find-the-original-typed-string-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Abhigna-arsam/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -214,6 +215,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Abhigna-arsam/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Abhigna-arsam/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Abhigna-arsam/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Greedy
 |  |
 | ------- |
@@ -408,6 +410,7 @@
 | [2202-sum-of-k-mirror-numbers](https://github.com/Abhigna-arsam/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhigna-arsam/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2870-longest-alternating-subarray](https://github.com/Abhigna-arsam/Leetcode/tree/master/2870-longest-alternating-subarray) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Abhigna-arsam/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Stack
 |  |
