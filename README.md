@@ -53,6 +53,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Abhigna-arsam/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Abhigna-arsam/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhigna-arsam/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Abhigna-arsam/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Abhigna-arsam/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -110,6 +111,7 @@
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Abhigna-arsam/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Abhigna-arsam/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhigna-arsam/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Abhigna-arsam/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -308,6 +310,7 @@
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Abhigna-arsam/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Abhigna-arsam/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhigna-arsam/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Abhigna-arsam/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Abhigna-arsam/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2756-buy-two-chocolates](https://github.com/Abhigna-arsam/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [3321-type-of-triangle](https://github.com/Abhigna-arsam/Leetcode/tree/master/3321-type-of-triangle) |
@@ -352,6 +355,7 @@
 | [2058-concatenation-of-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Abhigna-arsam/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Abhigna-arsam/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Abhigna-arsam/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/Abhigna-arsam/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Abhigna-arsam/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
