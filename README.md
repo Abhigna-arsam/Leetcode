@@ -184,6 +184,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Abhigna-arsam/Leetcode/tree/master/0009-palindrome-number) |
 | [0168-excel-sheet-column-title](https://github.com/Abhigna-arsam/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0326-power-of-three](https://github.com/Abhigna-arsam/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Abhigna-arsam/Leetcode/tree/master/0342-power-of-four) |
