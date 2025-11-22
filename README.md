@@ -32,6 +32,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Abhigna-arsam/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhigna-arsam/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Abhigna-arsam/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Abhigna-arsam/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1547-destination-city](https://github.com/Abhigna-arsam/Leetcode/tree/master/1547-destination-city) |
@@ -310,6 +311,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Abhigna-arsam/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0917-boats-to-save-people](https://github.com/Abhigna-arsam/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Abhigna-arsam/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhigna-arsam/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Abhigna-arsam/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
