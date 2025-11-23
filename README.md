@@ -10,6 +10,7 @@
 | [0056-merge-intervals](https://github.com/Abhigna-arsam/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Abhigna-arsam/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Abhigna-arsam/Leetcode/tree/master/0075-sort-colors) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Abhigna-arsam/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Abhigna-arsam/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Abhigna-arsam/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -185,6 +186,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Abhigna-arsam/Leetcode/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Abhigna-arsam/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Abhigna-arsam/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0326-power-of-three](https://github.com/Abhigna-arsam/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Abhigna-arsam/Leetcode/tree/master/0342-power-of-four) |
@@ -430,6 +432,7 @@
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Abhigna-arsam/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/Abhigna-arsam/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Abhigna-arsam/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/Abhigna-arsam/Leetcode/tree/master/2128-reverse-prefix-of-word) |
