@@ -29,6 +29,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Abhigna-arsam/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhigna-arsam/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Abhigna-arsam/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Abhigna-arsam/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1293-three-consecutive-odds](https://github.com/Abhigna-arsam/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Abhigna-arsam/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -237,6 +238,7 @@
 | [0797-rabbits-in-forest](https://github.com/Abhigna-arsam/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/Abhigna-arsam/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Abhigna-arsam/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Abhigna-arsam/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/Abhigna-arsam/Leetcode/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/Abhigna-arsam/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Abhigna-arsam/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -316,6 +318,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Abhigna-arsam/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0917-boats-to-save-people](https://github.com/Abhigna-arsam/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Abhigna-arsam/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Abhigna-arsam/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhigna-arsam/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -332,6 +335,7 @@
 | [0392-is-subsequence](https://github.com/Abhigna-arsam/Leetcode/tree/master/0392-is-subsequence) |
 | [0806-domino-and-tromino-tiling](https://github.com/Abhigna-arsam/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Abhigna-arsam/Leetcode/tree/master/0868-push-dominoes) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Abhigna-arsam/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Abhigna-arsam/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Abhigna-arsam/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
