@@ -154,6 +154,7 @@
 | [0782-jewels-and-stones](https://github.com/Abhigna-arsam/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/Abhigna-arsam/Leetcode/tree/master/0868-push-dominoes) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhigna-arsam/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1006-vowel-spellchecker](https://github.com/Abhigna-arsam/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhigna-arsam/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Abhigna-arsam/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -245,6 +246,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Abhigna-arsam/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0797-rabbits-in-forest](https://github.com/Abhigna-arsam/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/Abhigna-arsam/Leetcode/tree/master/0917-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhigna-arsam/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Abhigna-arsam/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Abhigna-arsam/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/Abhigna-arsam/Leetcode/tree/master/1448-maximum-69-number) |
@@ -449,6 +451,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhigna-arsam/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/Abhigna-arsam/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhigna-arsam/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Abhigna-arsam/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/Abhigna-arsam/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Bit Manipulation
@@ -496,4 +499,5 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhigna-arsam/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
