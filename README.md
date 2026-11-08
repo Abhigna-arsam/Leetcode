@@ -31,6 +31,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhigna-arsam/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Abhigna-arsam/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Abhigna-arsam/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1267-count-servers-that-communicate](https://github.com/Abhigna-arsam/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1293-three-consecutive-odds](https://github.com/Abhigna-arsam/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Abhigna-arsam/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -362,6 +363,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Abhigna-arsam/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhigna-arsam/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Abhigna-arsam/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1267-count-servers-that-communicate](https://github.com/Abhigna-arsam/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Abhigna-arsam/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Abhigna-arsam/Leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -399,6 +401,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Abhigna-arsam/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/Abhigna-arsam/Leetcode/tree/master/0463-island-perimeter) |
+| [1267-count-servers-that-communicate](https://github.com/Abhigna-arsam/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -424,6 +427,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Abhigna-arsam/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/Abhigna-arsam/Leetcode/tree/master/0463-island-perimeter) |
+| [1267-count-servers-that-communicate](https://github.com/Abhigna-arsam/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Abhigna-arsam/Leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Abhigna-arsam/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -495,9 +499,14 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Abhigna-arsam/Leetcode/tree/master/0463-island-perimeter) |
+| [1267-count-servers-that-communicate](https://github.com/Abhigna-arsam/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Abhigna-arsam/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhigna-arsam/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Abhigna-arsam/Leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
