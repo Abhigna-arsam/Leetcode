@@ -33,6 +33,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/Abhigna-arsam/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1267-count-servers-that-communicate](https://github.com/Abhigna-arsam/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1293-three-consecutive-odds](https://github.com/Abhigna-arsam/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Abhigna-arsam/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhigna-arsam/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -276,6 +277,7 @@
 | [0868-push-dominoes](https://github.com/Abhigna-arsam/Leetcode/tree/master/0868-push-dominoes) |
 | [0917-boats-to-save-people](https://github.com/Abhigna-arsam/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2128-reverse-prefix-of-word](https://github.com/Abhigna-arsam/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Abhigna-arsam/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Queue
@@ -298,6 +300,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhigna-arsam/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhigna-arsam/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1612-avoid-flood-in-the-city](https://github.com/Abhigna-arsam/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhigna-arsam/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Abhigna-arsam/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -331,6 +334,7 @@
 | [0917-boats-to-save-people](https://github.com/Abhigna-arsam/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Abhigna-arsam/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhigna-arsam/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Abhigna-arsam/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abhigna-arsam/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhigna-arsam/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
